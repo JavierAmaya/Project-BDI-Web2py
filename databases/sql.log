@@ -1,0 +1,104 @@
+timestamp: 2020-04-11T21:25:07.761512
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" VARCHAR(MAX) NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" VARCHAR(MAX) NULL
+);
+timestamp: 2020-04-11T21:27:18.755372
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" VARCHAR(MAX) NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" VARCHAR(MAX) NULL
+);
+timestamp: 2020-04-11T21:27:50.756895
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" VARCHAR(MAX) NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" VARCHAR(MAX) NULL
+);
+timestamp: 2020-04-11T21:28:31.783029
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" VARCHAR(MAX) NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" VARCHAR(MAX) NULL
+);
+timestamp: 2020-04-11T21:28:33.252880
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" VARCHAR(MAX) NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" VARCHAR(MAX) NULL
+);
+timestamp: 2020-04-11T21:57:00.881877
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" VARCHAR(MAX) NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" VARCHAR(MAX) NULL
+);
+timestamp: 2020-04-11T21:58:39.630555
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" NVARCHAR(256) NULL,
+    "content" NTEXT NULL,
+    "image" NVARCHAR(512) NULL,
+    "comments" NTEXT NULL
+);
+timestamp: 2020-04-11T21:59:18.926025
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" TEXT NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" TEXT NULL
+);
+timestamp: 2020-04-11T22:00:34.695177
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" TEXT NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" TEXT NULL
+);
+timestamp: 2020-04-11T22:04:12.142991
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" TEXT NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" TEXT NULL
+);
+timestamp: 2020-04-11T22:39:40.616231
+CREATE TABLE "post"(
+    "id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" TEXT NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" TEXT NULL
+);
+timestamp: 2020-04-11T22:57:50.733173
+CREATE TABLE "post"(
+    "post_id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" TEXT NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" TEXT NULL
+);
+timestamp: 2020-04-12T17:05:12.101439
+CREATE TABLE "post"(
+    "post_id" INT IDENTITY PRIMARY KEY,
+    "title" VARCHAR(256) NULL,
+    "content" TEXT NULL,
+    "image" VARCHAR(512) NULL,
+    "comments" TEXT NULL
+);
